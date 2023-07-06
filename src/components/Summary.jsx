@@ -21,6 +21,7 @@ const Summary = () => {
       display={'flex'}
       flexDirection={'column'}
       alignItems={'center'}
+      justifyContent={'center'}
 
       gap={'18px'}
       paddingTop={'18px'}
