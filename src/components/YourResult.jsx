@@ -6,7 +6,7 @@ const YourResult = () => {
       display={'flex'}
       flexDirection={'column'}
       alignItems={'center'}
-
+      color={'white'}
       justifyContent={'space-evenly'}
 
       sx={{
@@ -55,6 +55,8 @@ const YourResult = () => {
             fontFamily={"Hanken Grotesk"}
             fontWeight={700}
             fontSize={'50px'}
+            color={'white'}
+
           >76</Typography>
           <Typography
 
@@ -76,6 +78,8 @@ const YourResult = () => {
           fontFamily={"Hanken Grotesk"}
           fontWeight={500}
           fontSize={'22px'}
+          color={'white'}
+
         >Great</Typography>
 
         <Typography
